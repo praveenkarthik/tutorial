@@ -1,1 +1,3 @@
 First sample test
+
+Changes in the second commit (in master branch)
