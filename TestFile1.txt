@@ -1,3 +1,9 @@
 First sample test
 
 Changes in the second commit (in master branch)
+
+class user {
+	private function userName() {
+		// code to get user function
+	}
+}
