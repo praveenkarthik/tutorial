@@ -7,3 +7,5 @@ class user {
 		// code to get user function
 	}
 }
+
+This is a update from next version.
