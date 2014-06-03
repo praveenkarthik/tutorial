@@ -10,8 +10,6 @@ class user {
 
 This is a update from next version.
 
-<<<<<<< HEAD
 Changes from author.
-=======
+
 Changes from another local git.
->>>>>>> 8f78c9efda26c2589abf21d8420cc3351144b735
