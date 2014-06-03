@@ -13,3 +13,5 @@ This is a update from next version.
 Changes from author.
 
 Changes from another local git.
+
+Changes from another local git in branch add-from-author.
