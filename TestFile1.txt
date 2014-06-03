@@ -15,3 +15,7 @@ Changes from author.
 Changes from another local git.
 
 Changes from another local git in branch add-from-author.
+
+Another changes from another local git.
+
+Another changes from another local git in brach add-from-another-local-git.
